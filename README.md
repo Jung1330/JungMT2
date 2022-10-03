@@ -25,5 +25,5 @@ Aeldra=2
 Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana kadar.
 
 ## Eksikler-Boşlar
-Try Catch eksikleri var biraz kb oyun kapanırsa fln,
+Try Catch eksikleri var biraz kb oyun kapanırsa fln,                                                              
 .exe Stats şimdilik bi boka yaramıo süs :D
