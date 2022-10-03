@@ -19,3 +19,7 @@ En Son derlediğim Aeldra Sürümü : bin_aeldra_367
 ServerID :
 Rohan=1
 Aeldra=2
+
+Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana kadar.
+
+Try Catch eksikleri var biraz kb oyun kapanırsa fln 
