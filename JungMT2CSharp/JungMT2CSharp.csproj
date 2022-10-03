@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>81eswfjbi6r81.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="81eswfjbi6r81.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="omertrans156">
+      <HintPath>..\..\..\..\Desktop\Hobi\omertrans156.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
