@@ -1,4 +1,4 @@
-#JungMT2
+JungMT2
 
 C# Kullanılarak yapılmış bir Metin2 Hilesidir.Source sizler için birkaç yerden bilgi alınarak toplanmıştır
 
