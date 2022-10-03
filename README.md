@@ -32,3 +32,7 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 3-birde dll yi silerseniz pointerlar çalışmaz "omertrans156.dll" kesin lazım nagıt eklentileri ile saklar mısınız,
 yoksa başka bişi mi yaparsınız size kalmış;
+
+
+## Discord
+Göktuğ Oğuzaslan#6609
