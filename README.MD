@@ -11,6 +11,8 @@ Kullanım : İlk olarak ServerID kısmına belirlediğimiz ServerID yi yazıp pe
 yanındaki kutuğa basıyoruz.Bu kadar.
 
 
+![image](https://user-images.githubusercontent.com/81483108/193680286-e4675f9d-9917-421a-bbac-bd278e6904a6.png)
+
 
 En Son derlediğim Aeldra Sürümü : bin_aeldra_367 
 
