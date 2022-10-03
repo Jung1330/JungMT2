@@ -26,4 +26,5 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 ## Eksikler-Boşlar
 Try Catch eksikleri var biraz kb oyun kapanırsa fln,                                                              
-.exe Stats şimdilik bi boka yaramıo süs :D
+.exe Stats şimdilik bi boka yaramıo süs :D                                            
+birde dll yi silerseniz pointerlar çalışmaz "omertrans156.dll" kesin lazım
