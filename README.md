@@ -19,7 +19,7 @@ yanındaki kutuğa basıyoruz.Bu kadar.
 En Son derlediğim Aeldra Sürümü : bin_aeldra_367 
 
 ServerID :
-Rohan=1
+Rohan=1                                                                 
 Aeldra=2
 
 Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana kadar.
