@@ -28,11 +28,9 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 1-Try Catch eksikleri var biraz kb oyun kapanırsa fln;
 
-2-.exe Stats şimdilik bi boka yaramıo süs :D;
+### Update :
 
-3-birde dll yi silerseniz pointerlar çalışmaz "omertrans156.dll" kesin lazım nagıt eklentileri ile saklar mısınız,
-yoksa başka bişi mi yaparsınız size kalmış;
-
+• 3 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks
 
 ## Discord
 Göktuğ Oğuzaslan#6609
