@@ -32,7 +32,7 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 ### Update :
 
-• 3 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks
+• 3 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks)
 
 ## Discord
 Göktuğ Oğuzaslan#6609
