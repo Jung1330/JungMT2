@@ -27,7 +27,7 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 ## Eksikler-Boşlar
 
-1-Try Catch eksikleri var biraz kb oyun kapanırsa gelen hatalr için fln;
+1-Try Catch eksikleri var biraz kb oyun kapanırsa gelen hatalar için fln;
 2-Farmbot
 
 ### Update :
