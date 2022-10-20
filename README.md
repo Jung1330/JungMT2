@@ -27,12 +27,15 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 ## Eksikler-Boşlar
 
-1-Try Catch eksikleri var biraz kb oyun kapanırsa gelen hatalar için fln;
-2-Farmbot
+1-Farmbot
+2-Resize Metin2
+3-Yapabilirsem tek clientle farm yapmayı düzeltmek(yani tek client destekleyip 3 çarla farm atamayan
+arklar için)
 
 ### Update :
 
 • 3 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks)
+• Hata Çıktısı almicaksınız artık
 
 ## Discord
 Göktuğ Oğuzaslan#6609
