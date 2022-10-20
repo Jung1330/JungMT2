@@ -27,9 +27,9 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 ## Eksikler-Boşlar
 
-1-Farmbot
-2-Resize Metin2
-3-Yapabilirsem tek clientle farm yapmayı düzeltmek(yani tek client destekleyip 3 çarla farm atamayan
+1-Farmbot                                                                             
+2-Resize Metin2                                                                                       
+3-Yapabilirsem tek clientle farm yapmayı düzeltmek(yani tek client destekleyip 3 çarla farm atamayan                                      
 arklar için)
 
 ### Update :
