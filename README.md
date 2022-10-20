@@ -34,7 +34,7 @@ arklar için)
 
 ### Update :
 
-• 3 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks)
+• 3 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks)                               
 • Hata Çıktısı almicaksınız artık
 
 ## Discord
