@@ -28,9 +28,10 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 ## Eksikler-Boşlar
 
 1-Farmbot                                                                             
-2-Resize Metin2                                                                                       
+2-Resize Metin2(biraz zor olcak gibi amma neysa olursa olur),                                                                                                          
 3-Yapabilirsem tek clientle farm yapmayı düzeltmek(yani tek client destekleyip 3 çarla farm atamayan                                      
-arklar için)
+arklar için),         
+4-Her Client Page in üstündeki JungMT2 Yazısını kaldırıp başka bir şey yapmayı planlıyorum,
 
 ### Update :
 
