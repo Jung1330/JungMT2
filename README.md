@@ -13,15 +13,10 @@ Kullanım : İlk olarak ServerID kısmına belirlediğimiz ServerID yi yazıp pe
 PID Tikini işaretleyip ".exe Stats" a Metin2 PID sini gir ve "OK" a bas peşine) Sol en alt kısımdaki Start Page'in
 yanındaki kutuğa basıyoruz(oyun karakteri map'e indiğinde).Bu kadar.
 
-
 ![image](https://user-images.githubusercontent.com/81483108/196544915-ebd7bc5b-52c3-4944-9022-408d6a15cc2b.png)
-
-
-En Son derlediğim Aeldra Sürümü : bin_aeldra_367 
 
 ServerID :                                                                            
 Hiera2=1                                                                                                                
-Aeldra=2 /* Şimdilik Bıraktım */
 
 Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana kadar.
 
