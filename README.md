@@ -29,7 +29,7 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 
 • 7 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks)                               
 • Hata Çıktısı almicaksınız artık
-• Kodları Düzenledim                                                        
-
+• Kodları Düzenledim                                                                                                                 
+  
 ## Discord
 Göktuğ Oğuzaslan#6609
