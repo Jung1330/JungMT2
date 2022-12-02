@@ -23,13 +23,13 @@ Kendimi geliştirdikçe buraya en son halini atmaya devam edicem taki sıkılana
 ## Eksikler-Boşlar
 
 1-Farmbot                                                                                                                                         
-2-Her Client Page in üstündeki JungMT2 Yazısını kaldırıp başka bir şey yapmayı planlıyorum,
+2-Her Client Page in üstündeki JungMT2 Yazısını kaldırıp başka bir şey yapmayı planlıyorum,           
 
 ### Update :
 
 • 7 Client Eklendi.(Bir kaç güne eklerim dosyaları buraya knks)                               
 • Hata Çıktısı almicaksınız artık
-• Kodları Düzenledim                                                                                                                 
+• Kodları Düzenledim                                                                                                                                                             
   
 ## Discord
 Göktuğ Oğuzaslan#6609
