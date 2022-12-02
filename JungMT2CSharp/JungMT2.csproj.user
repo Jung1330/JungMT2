@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaBina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Selam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Themes\Alert1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Button1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\CheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\CheckBox1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Close1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\ComboBox1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\ContextMenuStrip1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\ControlBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\GroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\GroupBox1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Label1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\ListBox1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Max1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Mini1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Numeric1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\ProgressBar1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\RadioButton1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\StatusBar1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\StickyButton1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Tab1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\TextBox1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\ThemesBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\Toggle1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Themes\TrackBar1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
